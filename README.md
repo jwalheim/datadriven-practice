@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-29 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-29 |
 
 <!-- datadriven:index:end -->
