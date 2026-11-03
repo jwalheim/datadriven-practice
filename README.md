@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-11-03 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-11-03 |
 | [Still Standing](./practice/sql/still-standing) | SQL | Medium | 2026-11-03 |
 | [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-10-30 |
