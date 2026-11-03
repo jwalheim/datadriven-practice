@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Still Standing](./practice/sql/still-standing) | SQL | Medium | 2026-11-03 |
 | [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-10-30 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-29 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-29 |
