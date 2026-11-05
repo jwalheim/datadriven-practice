@@ -4,7 +4,7 @@ SELECT
 FROM (
   SELECT
     user_id,
-    JULIANDAY('now') - JULIANDAY(transaction_date) AS purchase_age
+    JULIANDAY(DATE('now')) - JULIANDAY(transaction_date) AS purchase_age
   FROM
     transactions
   WHERE
