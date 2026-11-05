@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Fulfillment Lag](./practice/sql/average-fulfillment-lag) | SQL | Medium | 2026-11-05 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-05 |
 | [Before They Walk](./practice/sql/before-they-walk) | SQL | Medium | 2026-11-04 |
 | [The Tag Order](./practice/sql/the-tag-order) | SQL | Medium | 2026-11-04 |
