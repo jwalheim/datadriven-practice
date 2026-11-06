@@ -11,7 +11,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 | [Average Fulfillment Lag](./practice/sql/average-fulfillment-lag) | SQL | Medium | 2026-11-05 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-05 |
 | [Before They Walk](./practice/sql/before-they-walk) | SQL | Medium | 2026-11-04 |
-| [The Tag Order](./practice/sql/the-tag-order) | SQL | Medium | 2026-11-04 |
+| [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-11-04 |
 | [When It Rains](./practice/sql/when-it-rains) | SQL | Medium | 2026-11-03 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-11-03 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-11-03 |
