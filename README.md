@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-11-08 |
 | [Ad Clickers](./practice/sql/ad-clickers) | SQL | Easy | 2026-11-08 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-11-08 |
 | [Average Fulfillment Lag](./practice/sql/average-fulfillment-lag) | SQL | Medium | 2026-11-05 |
