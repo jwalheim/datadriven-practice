@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ad Clickers](./practice/sql/ad-clickers) | SQL | Easy | 2026-11-08 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-11-08 |
 | [Average Fulfillment Lag](./practice/sql/average-fulfillment-lag) | SQL | Medium | 2026-11-05 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-05 |
