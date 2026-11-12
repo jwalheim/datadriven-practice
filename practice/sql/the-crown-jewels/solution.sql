@@ -3,6 +3,6 @@ SELECT p.product_name AS product_name,
 FROM products AS p
   INNER JOIN transactions AS t
   USING(product_id)
-GROUP BY p.product_name
+GROUP BY p.product_ID, p.product_name
 ORDER BY total_revenue DESC
 LIMIT 5;
