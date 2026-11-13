@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Budget Line](./practice/sql/the-budget-line) | SQL | Easy | 2026-11-13 |
 | [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-11-12 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-12 |
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-11-08 |
