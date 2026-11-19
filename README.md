@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Blast Radius](./practice/sql/the-blast-radius) | SQL | Medium | 2026-11-19 |
 | [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-11-19 |
 | [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-11-17 |
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-11-17 |
