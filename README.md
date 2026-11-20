@@ -24,7 +24,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 | [Before They Walk](./practice/sql/before-they-walk) | SQL | Medium | 2026-11-04 |
 | [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-11-04 |
 | [When It Rains](./practice/sql/when-it-rains) | SQL | Medium | 2026-11-03 |
-| [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Medium | 2026-11-03 |
+| [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-11-03 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-11-03 |
 | [Still Standing](./practice/sql/still-standing) | SQL | Medium | 2026-11-03 |
 | [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-10-30 |
