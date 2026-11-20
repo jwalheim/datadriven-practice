@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Medium | 2026-11-20 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-11-20 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-11-19 |
 | [The Blast Radius](./practice/sql/the-blast-radius) | SQL | Medium | 2026-11-19 |
