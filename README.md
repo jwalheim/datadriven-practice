@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-11-20 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-11-19 |
 | [The Blast Radius](./practice/sql/the-blast-radius) | SQL | Medium | 2026-11-19 |
 | [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-11-19 |
