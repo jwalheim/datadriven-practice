@@ -21,7 +21,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-11-08 |
 | [Ad Clickers](./practice/sql/ad-clickers) | SQL | Easy | 2026-11-08 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-11-08 |
-| [Average Fulfillment Lag](./practice/sql/average-fulfillment-lag) | SQL | Easy | 2026-11-05 |
+| [Average Fulfillment Lag](./practice/sql/average-fulfillment-lag) | SQL | Medium | 2026-11-05 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-05 |
 | [Before They Walk](./practice/sql/before-they-walk) | SQL | Medium | 2026-11-04 |
 | [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-11-04 |
