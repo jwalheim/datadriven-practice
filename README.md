@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Long Searches Containing 'er'](./practice/sql/long-searches-containing-er) | SQL | Easy | 2026-11-25 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-11-25 |
 | [Daily and Weekly Active Users](./practice/sql/daily-and-weekly-active-users) | SQL | Easy | 2026-11-25 |
 | [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-11-25 |
