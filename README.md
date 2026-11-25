@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Daily and Weekly Active Users](./practice/sql/daily-and-weekly-active-users) | SQL | Easy | 2026-11-25 |
 | [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-11-25 |
 | [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Medium | 2026-11-20 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-11-20 |
