@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/aggie_walheim), committed 
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-11-25 |
 | [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Medium | 2026-11-20 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-11-20 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-11-19 |
